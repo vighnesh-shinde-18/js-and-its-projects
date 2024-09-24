@@ -1,2 +1,4 @@
 # js-and-its-projects
-Author :- Vighnesh Shinde
+this is my first time using git 
+<br>
+Author :- Vighnesh Santosh Shinde
